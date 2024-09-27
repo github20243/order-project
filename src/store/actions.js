@@ -1,4 +1,4 @@
-export const API = "https://efc974846ba36c93.mokky.dev/todo";
+export const API = "https://66f28e6c71c84d805875be8e.mockapi.io/items";
 
 export const addOrder = (order) => {
   return async (dispatch) => {
